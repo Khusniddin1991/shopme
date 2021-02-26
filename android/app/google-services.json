@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617633815622",
+    "firebase_url":"https://shopme-acbde-default-rtdb.firebaseio.com/",
+    "project_id": "shopme-acbde",
+    "storage_bucket": "shopme-acbde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617633815622:android:929517e8d17b855f87fe47",
+        "android_client_info": {
+          "package_name": "com.pdp.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617633815622-ottj9gl6dmapgrb8geh0a4mn1cffa749.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bmQuYCRBEaBW4LXK5xkfMdKgBrjSxoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617633815622-ottj9gl6dmapgrb8geh0a4mn1cffa749.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
